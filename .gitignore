@@ -1,0 +1,14 @@
+# Python-related
+__pycache__/
+*.py[cod]
+venv/
+
+# Node-related (for React frontend)
+node_modules/
+*.log
+
+# Docker-related
+*.env
+
+# General
+.DS_Store
